@@ -68,6 +68,12 @@ This application is built with native C# (.NET Framework 4.7) and has **zero ext
 
 ---
 
+### 👾 Credits & Acknowledgements
+
+*   [de0bfusc4te](https://github.com/de0bfusc4te)
+
+*   [imbushuo](https://github.com/imbushuo/mac-precision-touchpad)): MacPrecisionTrackpad
+
 🔓 License
 
 Free and Open Source. 🏴‍☠️ 🇫🇷
