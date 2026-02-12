@@ -58,7 +58,7 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 1.  🏃 Double-click **`Bootcamp_h34l.exe`**.
 
-2.  🖱️ Click the options.
+2.  🖱️ Click on the options and fix everything.
 
 3.  ❤️ That's it your MacBook has been healed, he might say thanks!
 
