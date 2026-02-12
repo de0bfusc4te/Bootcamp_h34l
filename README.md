@@ -1,7 +1,7 @@
 # Bootcamp_h34l
  
 
-# 🍎 Bootcamp_h34l 🩺❤️‍🩹 
+# 🍎🩺 Bootcamp_h34l 
 
 
 🚀 A lightweight, native C# utility designed to optimize the Windows experience on Apple Bootcamp hardware. This tool provides quick toggles for common Bootcamp issues such as Bluetooth stuttering and thermal throttling, all within a minimal, dark-themed interface. Heal your MacBook!
