@@ -1,6 +1,6 @@
 # 🍎🩺 Bootcamp_h34l 
 
-🩺❤️‍🩹 A lightweight, native C# utility designed to optimize the Windows experience on Apple Bootcamp hardware. This tool provides quick toggles for common Bootcamp issues such as Bluetooth stuttering and thermal throttling, all within a minimal interface. Heal your MacBook!
+🩺❤️‍🩹 A lightweight, native C# utility designed to optimize the Windows experience on Apple Bootcamp hardware. This tool provides quick fixes for Bootcamp issues such as Bluetooth stuttering, thermal throttling and trackpad bugs; all within an oldschool minimal interface. Heal your MacBook.
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ Manages power plans to control thermal throttling and fan behavior.
 
 ### 👆 3. Trackpad_Fix
 
-Streamlines the installation of the **Mac Precision Touchpad** drivers (by imbushuo).
+Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbushuo](https://github.com/imbushuo/mac-precision-touchpad)
 
 *   📥 Provides a direct shortcut to download the necessary drivers.
 
