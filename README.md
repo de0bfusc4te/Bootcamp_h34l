@@ -24,7 +24,7 @@ Manages power plans to control thermal throttling and fan behavior.
 
 ### 👆 3. Trackpad_Fix
 
-Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbushuo](https://github.com/imbushuo/mac-precision-touchpad)
+Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbushuo](https://github.com/imbushuo/mac-precision-touchpad))
 
 *   📥 Provides a direct shortcut to download the necessary drivers.
 
