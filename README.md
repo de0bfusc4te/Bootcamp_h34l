@@ -2,6 +2,8 @@
 
 🩺❤️‍🩹 A lightweight, native C# utility designed to optimize the Windows experience on Apple Bootcamp hardware. This tool provides quick fixes for Bootcamp issues such as Bluetooth stuttering, thermal throttling and trackpad bugs; all within an oldschool minimal interface. Heal your MacBook.
 
+---
+
 ## ✨ Features
 
 ### 🎧 1. Ble_Fix (WiFi/Bluetooth Stutter Fix)
@@ -30,6 +32,8 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 *   ✔️ Once installed, the application remembers the state and displays "Fixed_already".
 
+---
+
 ## 🛠️ Usage
 
 1.  🛡️ **Run as Administrator**: The app requires Admin privileges to modify system services (SC/Net commands) and Power Configurations (`powercfg`). And no it is not a crypto-miner lol! ⛏️😂
@@ -38,15 +42,21 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 3.  🖱️ **Double-Click**: Open the tray icon to restore the window.
 
+---
+
 ## 🏗️ Compilation
 
 This application is built with native C# (.NET Framework 4.7) and has **zero external dependencies** (no Python, no Node.js, no Electron 🚫).
+
+---
 
 ### 📋 Requirements
 
 *   🪟 Windows 10 or Windows 11
 
 *   🔧 .NET Framework 4.7 (Pre-installed on most Windows systems)
+
+---
 
 ### ▶️ How to Use
 
@@ -55,3 +65,13 @@ This application is built with native C# (.NET Framework 4.7) and has **zero ext
 2.  🖱️ Click the options.
 
 3.  ❤️ That's it your MacBook has been healed, he might say thanks!
+
+---
+
+🔓 License
+
+Free and Open Source. 🏴‍☠️ 🇫🇷
+
+---
+
+
