@@ -46,12 +46,6 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 ---
 
-## 🏗️ Compilation
-
-This application is built with native C# (.NET Framework 4.7) and has **zero external dependencies** (no Python, no Node.js, no Electron 🚫).
-
----
-
 ### 📋 Requirements
 
 *   🪟 Windows 10 or Windows 11
@@ -70,7 +64,7 @@ This application is built with native C# (.NET Framework 4.7) and has **zero ext
 
 ---
 
-### 👾 Credits & Acknowledgements
+## 👾 Credits & Acknowledgements
 
 *   [de0bfusc4te](https://github.com/de0bfusc4te)
 
@@ -78,7 +72,7 @@ This application is built with native C# (.NET Framework 4.7) and has **zero ext
 
 ---
 
-🔓 License
+## 🔓 License
 
 Free and Open Source. 🏴‍☠️ 🇫🇷
 
