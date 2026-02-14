@@ -8,7 +8,7 @@ A lightweight, native C# utility designed to optimize the Windows experience on 
 
 ## ✨ 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-### 🎧 1. Ble_Fix (WiFi/Bluetooth Stutter Fix)
+### 🎧 𝟏. 𝐁𝐥𝐞_𝐅𝐢𝐱 (𝐖𝐢𝐅𝐢/𝐁𝐥𝐮𝐞𝐭𝐨𝐨𝐭𝐡 𝐒𝐭𝐮𝐭𝐭𝐞𝐫 𝐅𝐢𝐱)
 
 On many Bootcamp installations, the Windows Location Service (`lfsvc`) aggressively scans for WiFi networks, causing significant latency spikes and audio stuttering on Bluetooth headphones.
 
@@ -16,7 +16,7 @@ On many Bootcamp installations, the Windows Location Service (`lfsvc`) aggressiv
 
 *   ↩️ **Disable**: Restores the service to Windows defaults.
 
-### 💨 2. Fans_Control (Performance & Thermals)
+### 💨 𝟐. 𝐅𝐚𝐧𝐬_𝐂𝐨𝐧𝐭𝐫𝐨𝐥 (𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 & 𝐓𝐡𝐞𝐫𝐦𝐚𝐥𝐬)
 
 Manages power plans to control thermal throttling and fan behavior.
 
@@ -26,7 +26,7 @@ Manages power plans to control thermal throttling and fan behavior.
 
 *   📉 *Includes a visual temperature estimation graph.*
 
-### 👆 3. Trackpad_Fix
+### 👆 𝟑. 𝐓𝐫𝐚𝐜𝐤𝐩𝐚𝐝_𝐅𝐢𝐱
 
 Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbushuo](https://github.com/imbushuo/mac-precision-touchpad))
 
@@ -46,7 +46,7 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 ---
 
-### 📋 Requirements
+### 📋 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
 *   🪟 Windows 10 or Windows 11
 
@@ -72,7 +72,7 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 ---
 
-## 🔓 License
+## 🔓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞
 
 Free and Open Source. 🏴‍☠️ 🇫🇷
 
