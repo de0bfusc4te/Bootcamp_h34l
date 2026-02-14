@@ -6,7 +6,7 @@ A lightweight, native C# utility designed to optimize the Windows experience on 
 
 ---
 
-## ✨ Features
+## ✨ 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 ### 🎧 1. Ble_Fix (WiFi/Bluetooth Stutter Fix)
 
@@ -36,7 +36,7 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 ---
 
-## 🛠️ Usage
+## 🛠️ 𝐔𝐬𝐚𝐠𝐞
 
 1.  🛡️ **Run as Administrator**: The app requires Admin privileges to modify system services (SC/Net commands) and Power Configurations (`powercfg`). And no it is not a crypto-miner lol! ⛏️😂
 
@@ -64,7 +64,7 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 ---
 
-## 👾 Credits & Acknowledgements
+## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 & 𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞𝐦𝐞𝐧𝐭𝐬
 
 *   [de0bfusc4te](https://github.com/de0bfusc4te)
 
