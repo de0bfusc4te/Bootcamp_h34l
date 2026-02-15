@@ -64,7 +64,7 @@ Streamlines the installation of the **Mac Precision Touchpad** drivers (by [imbu
 
 ---
 
-## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 & 𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞𝐦𝐞𝐧𝐭𝐬
+## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
 *   [de0bfusc4te](https://github.com/de0bfusc4te)
 
